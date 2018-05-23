@@ -1,0 +1,123 @@
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe.config
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.pdb
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csprojResolveAssemblyReference.cache
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Properties.Resources.resources
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.GenerateResource.Cache
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.CoreCompileInputs.cache
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.exe
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.pdb
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.window.resources
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Npgsql.dll
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Npgsql.pdb
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Npgsql.xml
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oguzcan Karakoc\source\repos\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe.config
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.pdb
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Npgsql.pdb
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Npgsql.xml
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csprojResolveAssemblyReference.cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.window.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Properties.Resources.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.GenerateResource.Cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.exe
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.pdb
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 2\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Application1.forms.FormFilter.resources
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe.config
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.pdb
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Npgsql.pdb
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Npgsql.xml
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csprojResolveAssemblyReference.cache
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Application1.forms.FormFilter.resources
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.window.resources
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Properties.Resources.resources
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.GenerateResource.Cache
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.CoreCompileInputs.cache
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.exe
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.pdb
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Form2.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe.config
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.pdb
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Application1.forms.FormFilter.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.window.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Form2.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Properties.Resources.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.GenerateResource.Cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.exe
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.pdb
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csprojResolveAssemblyReference.cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\BUILD 3\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Application1.forms.FormFilterWijk.resources
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe.config
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.pdb
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csprojResolveAssemblyReference.cache
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Application1.forms.FormFilter.resources
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Application1.forms.FormFilterWijk.resources
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.window.resources
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Form2.resources
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Properties.Resources.resources
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.GenerateResource.Cache
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.CoreCompileInputs.cache
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.exe
+C:\Users\Oguzcan Karakoc\Desktop\Projects\School\Year1\Project 3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.pdb
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe.config
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.pdb
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csprojResolveAssemblyReference.cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Application1.forms.FormFilter.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Application1.forms.FormFilterWijk.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.window.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Form2.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Properties.Resources.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.GenerateResource.Cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.exe
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\SchoolProject3-year1\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.pdb
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe.config
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.pdb
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csprojResolveAssemblyReference.cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Application1.forms.FormFilter.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Application1.forms.FormFilterWijk.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.window.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Form2.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Properties.Resources.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.GenerateResource.Cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.exe
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.pdb
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe.config
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.exe
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\bin\Debug\SchoolProject3-year1.pdb
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csprojAssemblyReference.cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Application1.forms.FormFilter.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Application1.forms.FormFilterWijk.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.window.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Form2.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3_year1.Properties.Resources.resources
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.GenerateResource.cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.csproj.CopyComplete
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.exe
+D:\OneDrive - Hogeschool Rotterdam\INFPRJ3\Final Delivery - INFPRJ3 - Groep 2\Code documentatie\SchoolProject3-year1\obj\Debug\SchoolProject3-year1.pdb

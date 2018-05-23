@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Legacy2CPSWorkaround/1.0.0": {
+        "type": "package",
+        "build": {
+          "build/netstandard1.0/Legacy2CPSWorkaround.props": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "Legacy2CPSWorkaround/1.0.0": {
+        "type": "package",
+        "build": {
+          "build/netstandard1.0/Legacy2CPSWorkaround.props": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "Legacy2CPSWorkaround/1.0.0": {
+        "type": "package",
+        "build": {
+          "build/netstandard1.0/Legacy2CPSWorkaround.props": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "Legacy2CPSWorkaround/1.0.0": {
+        "type": "package",
+        "build": {
+          "build/netstandard1.0/Legacy2CPSWorkaround.props": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Legacy2CPSWorkaround/1.0.0": {
+      "sha512": "GU/g1RQyByRq2wOXvIIK28VZWHHHWoKRw+udnY9hhkqUSvsnbqfI9ecPd5MnQdO+oE02I9To2lABDEQ2CnlmJw==",
+      "type": "package",
+      "path": "legacy2cpsworkaround/1.0.0",
+      "files": [
+        "build/netstandard1.0/Legacy2CPSWorkaround.props",
+        "build/portable-net4+sl4+wp7+win8/Legacy2CPSWorkaround.props",
+        "legacy2cpsworkaround.1.0.0.nupkg.sha512",
+        "legacy2cpsworkaround.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "Legacy2CPSWorkaround >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Oguzcan Karakoc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Oguzcan Karakoc\\source\\repos\\SchoolProject3-year1\\SchoolProject3-year1\\SchoolProject3-year1.csproj",
+      "projectName": "SchoolProject3-year1",
+      "projectPath": "C:\\Users\\Oguzcan Karakoc\\source\\repos\\SchoolProject3-year1\\SchoolProject3-year1\\SchoolProject3-year1.csproj",
+      "packagesPath": "C:\\Users\\Oguzcan Karakoc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Oguzcan Karakoc\\source\\repos\\SchoolProject3-year1\\SchoolProject3-year1\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Oguzcan Karakoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "Legacy2CPSWorkaround": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
